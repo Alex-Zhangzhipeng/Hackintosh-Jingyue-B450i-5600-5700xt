@@ -75,5 +75,6 @@
 - [OpenCore 开发团队](https://github.com/acidanthera)
 - [Dortania 安装指南](https://dortania.github.io/)
 - [黑苹果社区](https://www.tonymacx86.com/)
+- [黑果小兵](https://blog.daliansky.net/)
 
 **声明：此项目为个人分享，仅供学习交流，请尊重版权和法律。**
